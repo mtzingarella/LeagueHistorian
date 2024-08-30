@@ -1,0 +1,1 @@
+Contains csvs of data scraped directly from nfl.com league and saved in a semi-structured format. Transformer scripts retrieve these csvs and clean them up.

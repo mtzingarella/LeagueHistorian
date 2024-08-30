@@ -1,0 +1,1 @@
+Contains data that has been cleaned up by a transformer script and it read to be loaded into SQLite db

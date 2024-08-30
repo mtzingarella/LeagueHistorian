@@ -1,0 +1,1 @@
+COntains scripts that transform the data in the staged_extracted_data folder and saves them into the trans_data folder where they will be retrieved by loader scripts to put into SQLite db

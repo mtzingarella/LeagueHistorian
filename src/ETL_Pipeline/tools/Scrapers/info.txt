@@ -1,0 +1,1 @@
+Contains web scraping scripts for pulling data from nfl.com fantasy leagues. 
